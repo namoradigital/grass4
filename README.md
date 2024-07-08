@@ -1,5 +1,4 @@
-# GetGrass Crooter
-## Installation
+# Installation
 #### Install python3
 - For windows: https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe 
 - For linux distros: https://dev.to/ivayloiv/install-latest-python-version-on-any-linux-distro-5gc3
@@ -11,7 +10,7 @@
 #### How to get your grass userid
 - Login to https://app.getgrass.io
 - Press f12 go to console, then type ```allow pasting``` insert to console
-![0001](https://github.com/im-hanzou/getgrass_bot/blob/main/pasting.JPG)
+
 
 - Then insert this code to console
 ```localStorage.getItem('userId')```
