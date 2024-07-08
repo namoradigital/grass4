@@ -5,7 +5,7 @@
 #### Python3 module Installation
 - Install from requirements.txt
 ```pip install -r requirements.txt```
-### REGISTER: https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk ( Please use this link instead! xD )
+### REGISTER: https://app.getgrass.io/register/
 ## HOW TO USE
 #### How to get your grass userid
 - Login to https://app.getgrass.io
